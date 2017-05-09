@@ -2,4 +2,4 @@
 
 This is practice for a collaborative project!
 
-My favorite candy is chocolate.
+My favorite candy is
